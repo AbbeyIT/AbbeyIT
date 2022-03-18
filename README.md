@@ -1,7 +1,7 @@
 Hi 👋 My name is Abbey
 ======================
 
-Aspiring DevOps Engineer
+Aspiring IT professional
 ------------------------
 
 I'm in my first year of learning technology and I'm glad to say that I'm enjoying learning Web3 and Cloud.
