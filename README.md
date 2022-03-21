@@ -8,7 +8,7 @@ I'm in my first year of learning technology and I'm glad to say that I'm enjoyin
 
 * 🌍  I'm based in Manila
 * ✉️  You can contact me at [abbeysantos1210@gmail.com](mailto:abbeysantos1210@gmail.com)
-* 🧠  I'm learning Web3 and Cloud
+* 🧠  I'm currently learning Python
 
 ### Languages
 
