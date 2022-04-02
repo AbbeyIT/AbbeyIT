@@ -4,11 +4,11 @@ Hi 👋 My name is Abbey
 Aspiring IT professional
 ------------------------
 
-I'm in my first year of learning technology and I'm glad to say that I'm enjoying learning Web3 and Cloud.
+I'm in my first year of learning technology and I'm glad to say that I'm enjoying learning Cloud.
 
 * 🌍  I'm based in Manila
 * ✉️  You can contact me at [abbeysantos1210@gmail.com](mailto:abbeysantos1210@gmail.com)
-* 🧠  I'm currently learning Python
+* 🧠  I'm currently learning Python and C#
 
 ### Languages
 
