@@ -1,7 +1,7 @@
 Hi 👋 My name is Abbey
 ======================
 
-Aspiring IT professional
+IT Student | DevOps Enthusiast | Cloud | Open Source
 ------------------------
 
 I'm in my first year of learning technology, and I'm glad to say that I'm enjoying learning Cloud and JavaScript now.
