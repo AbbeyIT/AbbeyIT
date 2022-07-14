@@ -32,4 +32,6 @@ I'm in my first year of learning technology, and I'm glad to say that I'm enjoyi
 
 <a href="http://www.github.com/AbbeyIT"><img src="https://activity-graph.herokuapp.com/graph?username=AbbeyIT&bg_color=1c1917&color=ffffff&line=baff29&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="http://www.github.com/AbbeyIT"><img src="https://github-readme-stats.vercel.app/api?username=AbbeyIT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbbeyIT's GitHub stats" /></a>
+
 <a href="https://github.com/AbbeyIT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&langs_count=10&title_color=89d2dc&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
