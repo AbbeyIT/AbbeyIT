@@ -1,37 +1,73 @@
-Hi 👋 My name is Abbey
-======================
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
+</div> 
 
-IT Student | DevOps Enthusiast | Cloud | Open Source
-------------------------
+<h1 align="center">Halo 👋, I'm Abbey</h1>
+<h3 align="center">IT Student | DevOps Enthusiast | Cloud | Open Source</h3>
 
-I'm in my first year of learning technology, and I'm glad to say that I'm enjoying learning Cloud and JavaScript now.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeyit&label=Profile%20views&color=0e75b6&style=flat" alt="abbeyit" /> </p>
 
-* 🌍  I'm based in Manila
-* ✉️  You can contact me at [abbeysantos1210@gmail.com](mailto:abbeysantos1210@gmail.com)
-* 🧠  I'm currently learning AWS, JavaScript and C#
+- 🔭 I’m currently working on [Rock Paper Scissors](https://github.com/AbbeyIT/rock-paper-scissors)
 
-### Stacks
+- 🌱 I’m currently learning **Back-End Development and Cloud**
 
-<p align="left"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></p>
+- 👨‍💻 All of my projects are available at [https://github.com/AbbeyIT](https://github.com/AbbeyIT)
 
+- 📝 I regularly write articles on [https://abbeywillblog.hashnode.dev/](https://abbeywillblog.hashnode.dev/)
 
-### Socials
+- 📫 How to reach me **abbeysantos1210@gmail.com**
 
-<p align="left">
-<a href="https://www.github.com/AbbeyIT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/maria-isabel-santos-49658b226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://abbeywillblog.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/abbeywilltech" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-isabel-santos-49658b226/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/AbbeyIT" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-### Badges
+## My Skill Set  
+<table align="center"><tr><td valign="top" width="33%">
 
-<b>My GitHub Stats</b>
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+</div>
 
-<a href="http://www.github.com/AbbeyIT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&stroke=ffffff&background=1c1917&ring=89d2dc&fire=baff29&currStreakNum=baff29&currStreakLabel=766DEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</td><td valign="top" width="33%">
 
-<a href="http://www.github.com/AbbeyIT"><img src="https://activity-graph.herokuapp.com/graph?username=AbbeyIT&bg_color=1c1917&color=ffffff&line=baff29&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+</div>
 
-<a href="http://www.github.com/AbbeyIT"><img src="https://github-readme-stats.vercel.app/api?username=AbbeyIT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbbeyIT's GitHub stats" /></a>
+</td><td valign="top" width="33%">
 
-<a href="https://github.com/AbbeyIT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&langs_count=10&title_color=89d2dc&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbeyit&show_icons=true&locale=en&layout=compact" alt="abbeyit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbeyit&show_icons=true&locale=en" alt="abbeyit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbeyit&" alt="abbeyit" /></p>
+
