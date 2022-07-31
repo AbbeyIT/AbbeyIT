@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
+<img src="https://github.com/AbbeyIT/readme-resources/blob/main/greetings.gif" align="center" style="width: 70%" />
 </div> 
 
 <h1 align="center">Halo 👋, I'm Abbey</h1>
