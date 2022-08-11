@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbbeyIT](https://github.com/AbbeyIT)
 
-- 📝 I regularly write articles on [https://abbeywillblog.hashnode.dev/](https://abbeywillblog.hashnode.dev/)
+- 📝 I write articles on [https://abbeywillblog.hashnode.dev/](https://abbeywillblog.hashnode.dev/)
 
 - 📫 How to reach me **abbeysantos1210@gmail.com**
 
