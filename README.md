@@ -2,8 +2,11 @@
 <img src="https://github.com/AbbeyIT/readme-resources/blob/main/greetings.gif" align="center" style="width: 70%" />
 </div> 
 
-<h1 align="center">Halo 👋, I'm Abbey</h1>
+<h1 align="center">Halo 👋, I'm Abbey</h1> 
 <h3 align="center">IT Student | DevOps Enthusiast | Cloud | Open Source</h3>
+
+**I am a sophomore, pursuing BS in Information Technology . I'm currently learning technologies and trying to be DevOps Engineer or Cloud Network Engineer 🚀. Currently, I'm trying to contribute more to open source and help the community 🥑.**
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeyit&label=Profile%20views&color=0e75b6&style=flat" alt="abbeyit" /> </p>
 
