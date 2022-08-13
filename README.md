@@ -3,7 +3,7 @@
 </div> 
 
 <h1 align="center">Halo 👋, I'm Abbey</h1> 
-<h3 align="center">IT Student | DevOps Enthusiast | Cloud | Open Source</h3>
+<h3 align="center">IT Student | DevOps Enthusiast | Cloud | Networking | Open Source</h3>
 
 **I am a sophomore, pursuing BS in Information Technology . I'm currently learning technologies and trying to be DevOps Engineer or Cloud Network Engineer 🚀. Currently, I'm trying to contribute more to open source and help the community 🥑.**
 <br/>
