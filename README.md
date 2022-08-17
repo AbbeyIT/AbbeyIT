@@ -73,11 +73,11 @@
 <br/>  
 
 ## GitHub Stats
-<a href="https://github.com/AbbeyIT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/AbbeyIT"><img src="https://github-readme-stats.vercel.app/api?username=AbbeyIT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbbeyIT's GitHub stats" /></a>
+![Abbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbeyIT&theme=nord&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&theme=nord)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/AbbeyIT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="http://www.github.com/AbbeyIT"><img src="https://activity-graph.herokuapp.com/graph?username=AbbeyIT&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
