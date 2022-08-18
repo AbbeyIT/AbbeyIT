@@ -82,6 +82,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&theme=nord)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
