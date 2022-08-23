@@ -18,7 +18,7 @@
 
 - 📝 I write articles on [https://abbeywillblog.hashnode.dev/](https://abbeywillblog.hashnode.dev/)
 
-- 📫 How to reach me **abbeysantos1210@gmail.com**
+- 📫 How to reach me **abbeysantos@proton.me**
 
 ## Connect with me  
 <div align="center">
