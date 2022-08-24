@@ -28,9 +28,9 @@
 <a href="https://abbeywillblog.hashnode.dev/" target="_blank">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="hashnode" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/maria-isabel-santos-49658b226/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/maria-isabel-santos-49658b226/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://github.com/AbbeyIT" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
