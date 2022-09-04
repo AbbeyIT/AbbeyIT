@@ -5,12 +5,12 @@
 <h1 align="center">Halo 👋, I'm Abbey</h1> 
 <h3 align="center">IT Student | DevOps Enthusiast | Cloud | Networking | Open Source</h3>
 
-**I am a sophomore, pursuing BS in Information Technology . I'm currently learning technologies and trying to be DevOps Engineer or Cloud Network Engineer 🚀. Currently, I'm trying to contribute more to open source and help the community 🥑.**
+**I am a sophomore, pursuing BS in Information Technology . I'm currently learning technologies and trying to be DevOps Engineer, System Admin or Cloud Network Engineer 🚀. Currently, I'm trying to contribute more to open source and help the community 🥑.**
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeyit&label=Profile%20views&color=0e75b6&style=flat" alt="abbeyit" /> </p>
 
-- 🔭 I’m currently working on [Rock Paper Scissors](https://github.com/AbbeyIT/rock-paper-scissors)
+- 🔭 I’m currently working on [Calculator in JavaScript](https://github.com/AbbeyIT/calculator)
 
 - 🌱 I’m currently learning **Back-End Development and Cloud**
 
