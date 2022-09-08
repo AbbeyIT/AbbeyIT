@@ -84,5 +84,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Testimonials 
 
-
+<h3>Write your testimonials about me <b><a href="https://github.com/AbbeyIT/AbbeyIT/discussions/2">here</a></b>! I'll add it in the <a href="https://github.com/AbbeyIT/AbbeyIT/blob/main/testimonials.md">testimonials</a>!</h3>
