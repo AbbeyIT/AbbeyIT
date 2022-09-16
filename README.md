@@ -5,7 +5,7 @@
 <h1 align="center">Halo 👋, I'm Abbey</h1> 
 <h3 align="center">IT Student | DevOps Enthusiast | Cloud | Networking | Open Source</h3>
 
-**I am a sophomore, pursuing BS in Information Technology . I'm currently learning technologies and trying to be DevOps Engineer, System Admin or Cloud Network Engineer 🚀. Currently, I'm trying to contribute more to open source and help the community 🥑.**
+**I am a sophomore, pursuing a BS in Information Technology . I'm currently learning technologies and trying to have a cloud-based job 🚀. Currently, I'm trying to contribute more to open source and help the community 🥑.**
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeyit&label=Profile%20views&color=0e75b6&style=flat" alt="abbeyit" /> </p>
@@ -72,7 +72,7 @@
 
 <br/>  
                                                                                                                     
-## Blog posts
+<!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->                                                                                                                   
 
