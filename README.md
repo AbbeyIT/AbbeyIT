@@ -22,9 +22,9 @@
 
 ## Connect with me  
 <div>
-<a href="https://twitter.com/abbeywilltech" target="_blank">
+<!-- <a href="https://twitter.com/abbeywilltech" target="_blank"> 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://abbeywillblog.hashnode.dev/" target="_blank">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="hashnode" style="margin-bottom: 5px;" />
 </a>
