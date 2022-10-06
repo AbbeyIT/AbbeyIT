@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/AbbeyIT/readme-resources/blob/main/greetings.gif" align="center" style="width: 70%" /> 
+<img src="https://github.com/AbbeyIT/AbbeyIT/blob/main/assets/greetings.gif" align="center" style="width: 70%" /> 
 </div> 
 
 <h1 align="center">Hayo, I'm Abbey <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/></h1> 
