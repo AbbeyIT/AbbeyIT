@@ -58,7 +58,8 @@
 <h1> GitHub Stats </h1>
 
 ![Metrics](https://metrics.lecoq.io/AbbeyIT?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore)
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
                    
 <!-- ![Abbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbeyIT&theme=nord&count_private=true&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
