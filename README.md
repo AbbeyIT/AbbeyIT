@@ -23,8 +23,7 @@
 
 - 📫 How to reach me **abbeysantos@proton.me**
 
-<h1 align="center"> Connect with me </h1>
-<div align="center">
+<h1> Connect with me </h1>
 <a href="https://twitter.com/abbeywilltech" target="_blank"> 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
@@ -36,10 +35,9 @@
 </a> -->
 <a href="https://github.com/AbbeyIT" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>   
 
-<h1 align="center"> My Tools </h1>
+<h1> My Tools </h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,8 +55,7 @@
 ![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)                                                                                                                 
 
-<h1 align="center"> GitHub Stats </h1>
-
+<h1> GitHub Stats </h1>
 
 ![Metrics](https://metrics.lecoq.io/AbbeyIT?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore)
 
@@ -68,6 +65,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+                   
 ## Testimonials 
 
 <h3>Write your testimonials about me <b><a href="https://github.com/AbbeyIT/AbbeyIT/discussions/2">here</a></b>! I'll add it in the <a href="https://github.com/AbbeyIT/AbbeyIT/blob/main/testimonials.md">testimonials</a>!</h3>
@@ -77,3 +75,4 @@
 If you like what I do, please consider **[buying me a beer](https://www.buymeacoffee.com/AbbeySantos)**! 
 
 <a href="https://www.buymeacoffee.com/AbbeySantos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+
