@@ -60,6 +60,7 @@
   <a href="https://github.com/AbbeyIT/open-source-contributions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=open-source-contributions&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
   <a href="https://github.com/AbbeyIT/rock-paper-scissors"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=rock-paper-scissors&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
   <a href="https://github.com/AbbeyIT/calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=calculator&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
+  <a href="https://github.com/AbbeyIT/etch-a-sketch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=etch-a-sketch&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
 
  <p>
 
