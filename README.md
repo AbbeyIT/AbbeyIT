@@ -73,11 +73,6 @@
  
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://abbeywillblog.hashnode.dev/my-first-hacktoberfest" title="My First Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666177901110/0HbUtPgxq.png" width="250px" align="left" /></a>
-<a href="https://abbeywillblog.hashnode.dev/my-first-hacktoberfest" title="My First Hacktoberfest"><strong>My First Hacktoberfest</strong></a>
-<br> This article contains my experiences from my first Hacktoberfest.
-
 <!-- HASHNODE_BLOG:END -->
 
 <br>
