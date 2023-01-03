@@ -69,22 +69,33 @@
   <a href="https://github.com/AbbeyIT/etch-a-sketch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=etch-a-sketch&theme=calm&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
     <a href="https://github.com/AbbeyIT/game-hub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=game-hub&theme=calm&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
     <a href="https://github.com/AbbeyIT/DevOps"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=devops&theme=calm&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
-  
+ </p>
+ 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://abbeywillblog.hashnode.dev/my-first-hacktoberfest" title="My First Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666177901110/0HbUtPgxq.png" width="250px" align="left" /></a>
+<a href="https://abbeywillblog.hashnode.dev/my-first-hacktoberfest" title="My First Hacktoberfest"><strong>My First Hacktoberfest</strong></a>
+<br> This article contains my experiences from my first Hacktoberfest.
 
- <p>
+<!-- HASHNODE_BLOG:END -->
 
+<br>
+<br>
+<br>
 
+<!-- 
 <h1> GitHub Stats </h1>
 
-<!-- ![Metrics](https://metrics.lecoq.io/AbbeyIT?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore)
-
--->
+![Metrics](https://metrics.lecoq.io/AbbeyIT?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=nord&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)         
-<!-- ![Abbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbeyIT&theme=nord&count_private=true&show_icons=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&theme=nord)](https://git.io/streak-stats) -->        
+![Abbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbeyIT&theme=nord&count_private=true&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&theme=nord)](https://git.io/streak-stats)  
+-->
 
+<!-- 
 ## Testimonials 
 
 <h3>Write your testimonials about me <b><a href="https://github.com/AbbeyIT/AbbeyIT/discussions/2">here</a></b>! I'll add it in the <a href="https://github.com/AbbeyIT/AbbeyIT/blob/main/testimonials.md">testimonials</a>!</h3>
@@ -96,3 +107,4 @@ If you like what I do, please consider **[buying me a beer](https://www.buymeaco
 <a href="https://www.buymeacoffee.com/AbbeySantos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
 
 [![@abbeyit's Holopin board](https://holopin.me/abbeyit)](https://holopin.io/@abbeyit)
+-->
