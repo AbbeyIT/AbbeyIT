@@ -78,10 +78,6 @@
 - [Pushing yourself to join communities](https://abbeywillblog.hashnode.dev//pushing-yourself-to-join-communities)
 <!-- HASHNODE_BLOG:END -->
 
-<br>
-<br>
-<br>
-
 <!-- 
 <h1> GitHub Stats </h1>
 
@@ -93,7 +89,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&theme=nord)](https://git.io/streak-stats)  
 -->
 
-<!-- 
 ## Testimonials 
 
 <h3>Write your testimonials about me <b><a href="https://github.com/AbbeyIT/AbbeyIT/discussions/2">here</a></b>! I'll add it in the <a href="https://github.com/AbbeyIT/AbbeyIT/blob/main/testimonials.md">testimonials</a>!</h3>
@@ -104,5 +99,6 @@ If you like what I do, please consider **[buying me a beer](https://www.buymeaco
 
 <a href="https://www.buymeacoffee.com/AbbeySantos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
 
+<!--
 [![@abbeyit's Holopin board](https://holopin.me/abbeyit)](https://holopin.io/@abbeyit)
 -->
