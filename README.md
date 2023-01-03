@@ -73,6 +73,9 @@
  
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [My First Hacktoberfest](https://abbeywillblog.hashnode.dev//my-first-hacktoberfest)
+- [Introduction of TCP/IP Model](https://abbeywillblog.hashnode.dev//introduction-of-tcp-ip-model)
+- [Pushing yourself to join communities](https://abbeywillblog.hashnode.dev//pushing-yourself-to-join-communities)
 <!-- HASHNODE_BLOG:END -->
 
 <br>
