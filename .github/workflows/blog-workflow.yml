@@ -19,5 +19,6 @@ jobs:
           USERNAME: 'abbeywillblog' # Hashnode Username
           BLOG_URL: 'https://abbeywillblog.hashnode.dev/' # Blog URL
           COUNT: 3 # MAX Visisble
+          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
