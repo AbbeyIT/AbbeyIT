@@ -94,19 +94,23 @@ I am a sophomore, pursuing a BS in Information Technology . I'm currently learni
 <p align="left">
 <a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title="My First Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666177901110/0HbUtPgxq.png" alt="My First Hacktoberfest" width="250px" align="left" /></a>
 <a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title="My First Hacktoberfest"><strong>My First Hacktoberfest</strong></a>
+<div><strong>20 Oct 2022</strong></div>
 <br/> Hello beautiful people! It's been a long time since I wrote a blog. I hope you all doing great. So, I am writing this blog to share my experience to you on my first Hacktoberfest ✨ I hope you enjoy it! 😊
 🌐 What is Hacktoberfest is all about?
 
-The m... </p>
+The m... </p> <br/> <br/>
 <p align="left">
 <a href="https://abbeywillblog.hashnode.dev//introduction-of-tcp-ip-model" title="Introduction of TCP/IP Model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657615437394/UhnUR0CWL.png" alt="Introduction of TCP/IP Model" width="250px" align="left" /></a>
 <a href="https://abbeywillblog.hashnode.dev//introduction-of-tcp-ip-model" title="Introduction of TCP/IP Model"><strong>Introduction of TCP/IP Model</strong></a>
+<div><strong>20 July 2022</strong></div>
 <br/> Networking models are needed, especially if you want to learn DevOps. However, the fundamentals of networking are always skipped for the reason that they are going straight towards DevOps tools like Docker and Jenkins. We don't need to dive fully int... </p> <br/> <br/>
 <p align="left">
 <a href="https://abbeywillblog.hashnode.dev//pushing-yourself-to-join-communities" title="Pushing yourself to join communities"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657000180379/7d74e3jTI.png" alt="Pushing yourself to join communities" width="250px" align="left" /></a>
 <a href="https://abbeywillblog.hashnode.dev//pushing-yourself-to-join-communities" title="Pushing yourself to join communities"><strong>Pushing yourself to join communities</strong></a>
+<div><strong>6 July 2022</strong> | <strong>Updated: 8 July 2022</strong></div>
+<br/> Getting Out of the Comfort Zone
 
-Getting out of our comfort zones will most likely be the most difficult challenge we will face. It's easy to say, but in reality it's like getting blood from a stone. You are wondering why on earth do we need to get o... </p> <br/>
+Getting out of our comfort zones will most likely be the most difficult challenge we will face. It's easy to say, but in reality it's like getting blood from a stone. You are wondering why on earth do we need to get o... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials 📝
