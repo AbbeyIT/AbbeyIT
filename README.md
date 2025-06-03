@@ -1,9 +1,11 @@
 <div align="center">
-<img src="https://github.com/AbbeyIT/AbbeyIT/blob/main/assets/DEVOPS.png" align="center" style="width: 100%" /> 
+<!-- <img src="https://github.com/AbbeyIT/AbbeyIT/blob/main/assets/DEVOPS.png" align="center" style="width: 100%" />  -->
 </div> 
 <br/>
 
-<!-- <h1 align="center">Hayo, I'm Abbey <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/></h1> -->
+[![An image of @abbeyit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abbeyit)](https://holopin.io/@abbeyit)
+
+<h1 align="center">Hayo, I'm Abbey <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/></h1> 
 
 <!-- <p align="center">
   <a href="https://github.com/AbbeyIT"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E8046&lines=IT%20Student;Open%20Source;Cloud&center=true&width=500&height=50"></a>
