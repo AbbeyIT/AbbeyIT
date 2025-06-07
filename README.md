@@ -22,7 +22,7 @@ I am a senior, pursuing a BS in Information Technology . I'm currently learning 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeyit&label=Profile%20views&color=0e75b6&style=flat" alt="abbeyit" /> </p> -->
 
-- 📝 I write articles on [Hashnode](https://abbeywillblog.hashnode.dev/)
+<!-- - 📝 I write articles on [Hashnode](https://abbeywillblog.hashnode.dev/) -->
 
 - 📫 How to reach me **abbeysantos@proton.me**
 
