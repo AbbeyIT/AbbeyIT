@@ -11,9 +11,11 @@
   <a href="https://github.com/AbbeyIT"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E8046&lines=IT%20Student;Open%20Source;Cloud&center=true&width=500&height=50"></a>
 </p> -->
 
+<!-- 
 <p align="left"> 
 <a href="https://twitter.com/intent/follow?screen_name=abbeywilltech" target="blank"><img src="https://img.shields.io/twitter/follow/abbeywilltech?logo=twitter&style=for-the-badge&color=1DA1F2" alt="pradumna_saraf"/></a>
 </p>
+-->
 
 I am a senior, pursuing a BS in Information Technology . I'm currently learning technologies and trying to contribute more to open source and help the community 🥑.
 <br/>
@@ -90,10 +92,10 @@ I am a senior, pursuing a BS in Information Technology . I'm currently learning 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&theme=vue-dark)](https://git.io/streak-stats)  
 </details>
- 
+<!-- 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
+<!-- <p align="left">
 <a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title="My First Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666177901110/0HbUtPgxq.png" alt="My First Hacktoberfest" width="250px" align="left" /></a>
 <a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title="My First Hacktoberfest"><strong>My First Hacktoberfest</strong></a>
 <div><strong>20 Oct 2022</strong></div>
@@ -112,8 +114,9 @@ The m... </p> <br/> <br/>
 <div><strong>6 July 2022</strong> | <strong>Updated: 8 July 2022</strong></div>
 <br/> Getting Out of the Comfort Zone
 
-Getting out of our comfort zones will most likely be the most difficult challenge we will face. It's easy to say, but in reality it's like getting blood from a stone. You are wondering why on earth do we need to get o... </p> <br/> <br/>
+Getting out of our comfort zones will most likely be the most difficult challenge we will face. It's easy to say, but in reality it's like getting blood from a stone. You are wondering why on earth do we need to get o... </p> <br/> <br/> 
 <!-- HASHNODE_BLOG:END -->
+
 
 ## Testimonials 📝
 
