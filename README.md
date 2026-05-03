@@ -17,7 +17,7 @@
 </p>
 -->
 
-I am a senior, pursuing a BS in Information Technology . I'm currently learning technologies and trying to contribute more to open source and help the community 🥑.
+I am an Integration Developer. I love technology, coffee, open source, and helping the community⚡. 
 <br/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeyit&label=Profile%20views&color=0e75b6&style=flat" alt="abbeyit" /> </p> -->
@@ -52,6 +52,9 @@ I am a senior, pursuing a BS in Information Technology . I'm currently learning 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -61,7 +64,6 @@ I am a senior, pursuing a BS in Information Technology . I'm currently learning 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -80,18 +82,10 @@ I am a senior, pursuing a BS in Information Technology . I'm currently learning 
     <a href="https://github.com/AbbeyIT/etch-a-sketch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=etch-a-sketch&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
       <a href="https://github.com/AbbeyIT/game-hub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=game-hub&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
       <a href="https://github.com/AbbeyIT/DevOps"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=devops&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
+    <a href="https://github.com/AbbeyIT/Ticku"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbbeyIT&repo=ticku&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
    </p>
 </details>
 
-<details>
-<summary>📊 My GitHub Stats</summary>
-<!-- ![Metrics](https://metrics.lecoq.io/AbbeyIT?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore) -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbbeyIT&theme=onestar&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)         
-![Abbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbeyIT&theme=vue-dark&count_private=true&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbeyIT&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbeyIT&theme=vue-dark)](https://git.io/streak-stats)  
-</details>
 <!-- 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
