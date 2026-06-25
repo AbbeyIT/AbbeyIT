@@ -111,6 +111,14 @@ The m... </p> <br/> <br/>
 Getting out of our comfort zones will most likely be the most difficult challenge we will face. It's easy to say, but in reality it's like getting blood from a stone. You are wondering why on earth do we need to get o... </p> <br/> <br/> 
 <!-- HASHNODE_BLOG:END -->
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=AbbeyIT&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/AbbeyIT"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 ## Testimonials 📝
 
