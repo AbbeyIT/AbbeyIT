@@ -124,12 +124,13 @@ Getting out of our comfort zones will most likely be the most difficult challeng
 
 <h3>Write your testimonials about me <b><a href="https://github.com/AbbeyIT/AbbeyIT/discussions/2">here</a></b>! I'll add it in the <a href="https://github.com/AbbeyIT/AbbeyIT/blob/main/testimonials.md">testimonials</a>!</h3>
 
+<!--
 ## Support 🚀
 
 If you like what I do, please consider **[buying me a beer](https://www.buymeacoffee.com/AbbeySantos)**! 
 
 <a href="https://www.buymeacoffee.com/AbbeySantos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
 
-<!--
+
 [![@abbeyit's Holopin board](https://holopin.me/abbeyit)](https://holopin.io/@abbeyit)
 -->
